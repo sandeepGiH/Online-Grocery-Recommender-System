@@ -34,7 +34,5 @@ The Goal of the project is to engage customer on the app and increase the no. of
 ## Technologies Used 
 ![technology](technology.png)
 
-## credits 
-[Google.com](https://www.google.com/)
-[medium.com](https://medium.com/)
+
 
