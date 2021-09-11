@@ -1,0 +1,13 @@
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+numpy>=1.9.2
+pandas>=0.19
+apyori==1.1.2
+lightfm==1.16
+scipy==1.6.2
+sklearn-pandas==2.2.0
+mlxtend==0.18.0
